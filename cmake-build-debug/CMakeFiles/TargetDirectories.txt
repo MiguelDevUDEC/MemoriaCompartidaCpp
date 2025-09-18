@@ -1,0 +1,3 @@
+C:/Users/Miguel/Desktop/ejercicios/cmake-build-debug/CMakeFiles/ejercicios.dir
+C:/Users/Miguel/Desktop/ejercicios/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Miguel/Desktop/ejercicios/cmake-build-debug/CMakeFiles/rebuild_cache.dir
